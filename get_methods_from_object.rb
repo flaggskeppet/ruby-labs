@@ -1,0 +1,1 @@
+puts  [].methods.grep /^com/
