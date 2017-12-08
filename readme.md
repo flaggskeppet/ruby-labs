@@ -1,3 +1,3 @@
 ## Ruby Sandbox
 
-Examples of som useful ruby patterns & problems
+Examples of some useful ruby patterns & problems
